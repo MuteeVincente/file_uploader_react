@@ -76,10 +76,10 @@ class App extends Component {
 				<h1>
 					FILE UPLOADER
 				</h1>
+				<div className='container' >
 				<h3>
 					File Upload using React!
 				</h3>
-				<div>
 					<input type="file" onChange={this.onFileChange} />
 					<button onClick={this.onFileUpload}>
 						Upload!

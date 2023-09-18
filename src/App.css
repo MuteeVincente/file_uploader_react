@@ -5,3 +5,13 @@
   align-items: center;
   height: 100vh;
 }
+.container{
+  background-color: antiquewhite;
+  height: 300px;
+  border-radius: 10px;
+  width: 400px;
+
+}
+h3{
+  text-align: center;
+}
